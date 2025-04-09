@@ -1,5 +1,8 @@
 class Program {
-public static void main (String lol[]){
-System.out.println("hello wordl");
-}
+
+
+	public static void main (String lol[]) {
+		String message = "un message";
+		System.out.println(message);
+	}
 }
